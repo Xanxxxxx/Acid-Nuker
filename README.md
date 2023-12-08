@@ -14,4 +14,9 @@ This nuker abuses the discord api to mess with user accounts.
 ## 📖 License
 - Acid nuker is under GNU GENERAL PUBLIC LICENSE [https://github.com/Xanxxxxx/Acid-Nuker/blob/main/LICENSE]
 
+### Preview
+![image](https://github.com/Xanxxxxx/Acid-Nuker/blob/main/acid/main.png)
+
+
+
 
